@@ -1,25 +1,17 @@
-# ReduxSimpleStarter
+ReactSample
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This project is an udemy course exercise. Objective is to learn basics of react by building simple youtube API integration.
 
-###Getting Started###
+Getting Started
 
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
+    > git clone git@github.com:manickababu/ReactSample.git
+    > cd ReactSample
+    > npm install
+    > npm start
+###use this command to download and install all npm modules if you get any error
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+rm -rf node_modules/ && npm cache clean && npm install
 
-```
-	> npm install
-	> npm start
 ```
