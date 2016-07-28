@@ -1,8 +1,8 @@
-ReactSample
+# ReactSample
 
 This project is an udemy course exercise. Objective is to learn basics of react by building simple youtube API integration.
 
-Getting Started
+###Getting Started###
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
